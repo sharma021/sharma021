@@ -34,7 +34,6 @@ With hands-on experience across full-stack development, machine learning, and cl
 🔍 **Face Recognition Attendance System**  
 A smart, ML-powered UI-based system that marks attendance using face recognition.  
 Tech used: Python, OpenCV, ML, Tkinter  
-[🔗 GitHub Repo](#)
 
 ---
 
