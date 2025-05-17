@@ -46,8 +46,8 @@ Tech used: Python, OpenCV, ML, Tkinter
 
 ### 📈 GitHub Stats
 
-![Vidya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidyaSharma&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSharma&layout=compact&theme=radical)
+![Vidya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharma021&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma021&layout=compact&theme=radical)
 
 ---
 
