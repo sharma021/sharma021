@@ -1,60 +1,80 @@
-# 👋 Hi, I'm Vidya Sharma
+# 👩‍💻 Vidya Sharma
 
-👩‍💻 **Software Engineer II @ Philips** | 📍 Bangalore, India  
-🌱 Currently preparing for **AWS AI/ML Certification** & working on a new **Java-based project**
-
----
-
-### 👩‍🔬 About Me
-
-I’m a passionate software engineer who loves building impactful tech solutions — whether it’s streamlining healthcare processes at work or creating smart AI-driven tools in my personal projects.
-
-With hands-on experience across full-stack development, machine learning, and cloud platforms, I thrive on solving real-world problems with code.
+**Software Engineer II** • Java • Python • AWS (in progress) • Backend Development • HL7 • Machine Learning  
+📍 Bangalore, India | 📧 sharmavidya021@gmail.com | 📞 +91 6284074670  
+🔗 [LinkedIn](https://www.linkedin.com/in/vidyasharma021) | 📝 [Blog](https://vidusharma021.hashnode.dev) | 🧑‍💻 [GitHub](https://github.com/sharma021)
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-blue.svg?logo=java) ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=blue) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
-
-**Databases:**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🧠 Summary
+Backend Developer with **2.5+ years** of experience designing and building scalable systems in Java, Python, and SQL. Delivered RESTful APIs, ML-driven analytics, and cloud-ready backend services in healthcare. Familiar with AWS and public cloud concepts. Actively pursuing AWS AI/ML certification.
 
 ---
 
-### 🚀 Featured Project
+## 🛠️ Skills
 
-🔍 **Face Recognition Attendance System**  
-A smart, ML-powered UI-based system that marks attendance using face recognition.  
-Tech used: Python, OpenCV, ML, Tkinter  
-
----
-
-### 📚 Currently Learning & Building
-- Preparing for the **AWS Certified Machine Learning – Specialty** exam
-- Building a **Java application** (Spring Boot + AWS integration)
+**Languages:** Python, Java, C++, TypeScript, HTML, CSS, PL/SQL  
+**Backend:** Java (Core & 11), REST APIs, Node-RED, .NET, HL7  
+**Frontend:** React, TypeScript  
+**Cloud & DevOps:** AWS (in progress), GitHub Actions  
+**Data & ML:** Pandas, NumPy, Power BI, Scikit-learn  
+**Tools:** Kafka, Git, PowerShell, Agile, JIRA  
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Experience
 
-![Vidya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharma021&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma021&layout=compact&theme=radical)
+### **Software Engineer II** — *Philips India*  
+**Nov 2023 – Present**
+- Designed AI-driven hospital data solutions using Python & ML to predict treatment paths.
+- Built RESTful APIs and SQL pipelines for reporting tools.
+- Developed HL7 interfaces for healthcare data exchange.
+- Built internal SaaS-style dashboards with Node-RED and Power BI.
+
+### **Technical Consultant** — *Philips India*  
+**Aug 2022 – Oct 2023**
+- Led backend SQL project for patient reporting (PL/SQL).
+- Wrote triggers, procedures, and reports for hospital systems.
+- Worked on .NET and PowerShell-based data migration tools.
+
+### **Software Engineering Intern** — *Philips India*  
+**Mar 2022 – Aug 2022**
+- Created Power BI dashboards for patient analytics.
+- Contributed to HL7 integration testing.
 
 ---
 
-### 💬 Let's Connect!
+## 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyasharma021/)  
-_Always open to collaboration and learning!_
+### **Patient Data Tracker using ML**
+> Python, Pandas, Scikit-learn, Power BI  
+Built ML models to predict patient condition changes and visualize metrics via dashboards.
+
+### **Churn Prediction System**
+> Python, Jupyter, Kaggle dataset  
+ML pipeline to predict customer churn using classification and data reduction.
+
+### **Fantasy Cricket League**
+> Python, SQLite, PyQt  
+GUI-based game to select cricket players and calculate scores from live match performance.
 
 ---
 
-_Thanks for visiting my profile! 🌟_
+## 🎓 Education
+**B.E. Information Technology** — Panjab University, Chandigarh 🏅 90.7% (2022)
+
+---
+
+## 📜 Certifications
+- AWS AI/ML Specialty — *In Progress (Planned: Aug 2025)*  
+- HL7 v2.8 — *In Progress*
+
+---
+
+## 🏆 Achievements
+- Delivered a solo SQL backend project adopted across teams.
+- Built a custom reporting tool used by multiple departments.
+
+---
+
+_This README is a live version of my resume. Feel free to connect with me!_
