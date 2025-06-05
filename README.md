@@ -1,7 +1,7 @@
 # 👩‍💻 Vidya Sharma
 
 **Software Engineer II** • Java • Python • AWS (in progress) • Backend Development • HL7 • Machine Learning  
-📍 Bangalore, India | 📧 sharmavidya021@gmail.com | 📞 +91 6284074670  
+📍 Bangalore, India | 📧 sharmavidya021@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vidyasharma021) | 📝 [Blog](https://vidusharma021.hashnode.dev) | 🧑‍💻 [GitHub](https://github.com/sharma021)
 
 ---
